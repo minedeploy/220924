@@ -166,4 +166,4 @@ cython_debug/
 logs.txt
 
 # Sessions folder
-# sessions/
+sessions/
